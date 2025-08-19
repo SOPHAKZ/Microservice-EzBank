@@ -1,0 +1,29 @@
+services:
+  accounts:
+    image: "sophakz/accounts:v1"
+    container_name: account-service
+    ports:
+      - "8080:8080"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+
+  cards:
+    image: "sophakz/cards:v1"
+    container_name: card-service
+    ports:
+      - "8090:8090"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+  loans:
+    image: "sophakz/loans:v1"
+    container_name: loans-service
+    ports:
+      - "9000:9000"
+    deploy:
+      resources:
+        limits:
+          memory: 700m

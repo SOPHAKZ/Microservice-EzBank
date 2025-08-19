@@ -1,0 +1,16 @@
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/LoansApplication.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/audit/AuditAwareImpl.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/constants/LoansConstants.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/controller/LoansController.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/dto/ErrorResponseDto.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/dto/LoansDto.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/dto/ResponseDto.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/entity/BaseEntity.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/entity/Loans.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/exception/GlobalExceptionHandler.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/exception/LoanAlreadyExistsException.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/exception/ResourceNotFoundException.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/mapper/LoansMapper.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/repository/LoansRepository.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/service/ILoansService.java
+/Users/sophakz/Documents/DevOp/Course/microservices/EzBank_Microservices/loans/src/main/java/com/eazybytes/loans/service/impl/LoansServiceImpl.java
